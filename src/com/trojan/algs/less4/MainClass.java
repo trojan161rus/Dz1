@@ -12,6 +12,8 @@ public class MainClass {
 
 
         System.out.println(rl.find("Ivan3", 20));
+
+
         System.out.println(rl.delete("Ivan2", 20));
         System.out.println(rl);
     }
